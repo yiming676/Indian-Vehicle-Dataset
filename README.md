@@ -1,4 +1,7 @@
 # Indian-Vehicle-Dataset
+
+😊Due to quota restrictions, the upload will have to be postponed.
+
 This is a niche vehicle dataset originating from India, for which I have created a hazified version available in one of my other projects.
 Additionally, the package includes YOLO format annotations corresponding to each image, encompassing a total of 21 vehicle categories.
 
